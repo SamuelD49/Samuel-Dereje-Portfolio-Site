@@ -102,10 +102,10 @@ const resume = () => {
             <li>Maintain any technical faults</li>
             <li>
               Help with issues that is related to my field to fulfil the
-              company’s objective
+              companys objective
             </li>
             <li>
-              Mentor and assess trainee intern's progress Supervise employees
+              Mentor and assess trainee interns progress Supervise employees
               assigned to me
             </li>
           </ul>
